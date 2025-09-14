@@ -1,2 +1,2 @@
-# MsDS-deep-learing-cnn-cancer-Detection
+# MsDS-deep-learing-cnn-cancer-detection
 This Kaggle competition is a binary image classification problem where you will identify metastatic cancer in small image patches taken from larger digital pathology scans.
